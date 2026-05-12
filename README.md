@@ -1,79 +1,79 @@
 # Clipaisso
 
-**Capture, edite e publique seus melhores momentos — tudo no mesmo lugar.**
+**Capture, edite e publique seus melhores momentos em um único ambiente.**
 
-O Clipaisso é um aplicativo de desktop para criadores que querem transformar lives, vídeos e gravações em clipes prontos para publicar, sem precisar saltar entre três programas diferentes. Baixe streams, monitore seus canais favoritos, una clipes, faça cortes precisos e edite cada detalhe — tudo numa interface enxuta e direta ao ponto.
+O Clipaisso é um aplicativo de desktop voltado a criadores de conteúdo que desejam transformar transmissões ao vivo, vídeos e gravações em clipes prontos para publicação, sem a necessidade de alternar entre diferentes ferramentas. Realize downloads de transmissões, monitore canais, una clipes, execute cortes precisos e edite cada detalhe — em uma interface enxuta e objetiva.
 
 ---
 
-## O que dá pra fazer
+## Funcionalidades
 
 ### Downloads
 
-Cole o link de uma live, VOD ou vídeo público das principais plataformas e baixe localmente, em qualidade máxima. Suporta múltiplos clipes na mesma operação — você define os trechos de início e fim e o Clipaisso baixa só o pedaço que interessa, sem precisar engolir o vídeo inteiro.
+Insira o endereço de uma transmissão ao vivo, VOD ou vídeo público das principais plataformas e realize o download localmente, em qualidade máxima. A ferramenta oferece suporte a múltiplos trechos na mesma operação: defina o início e o fim de cada segmento e apenas as partes desejadas serão baixadas, evitando a necessidade de processar o vídeo integral.
 
 ### Gravações ao vivo
 
-Capture streams em tempo real diretamente da sua máquina. Basta colar o link da live, dar um nome, e a gravação começa. Quando a live encerra (ou você decide parar), o arquivo já entra na sua biblioteca como VOD pronto pra editar.
+Realize a captura de transmissões em tempo real diretamente da sua máquina. Após informar o endereço da live e atribuir um nome, a gravação tem início. Ao encerramento da transmissão — ou mediante interrupção manual —, o arquivo é incorporado automaticamente à sua biblioteca como VOD, disponível para edição.
 
 ### Gravações automáticas (monitoramento)
 
-Adicione os canais que você acompanha. O Clipaisso verifica periodicamente quando eles entram ao vivo e **começa a gravar sozinho** — você nem precisa estar com o programa aberto na hora. Suporta Twitch, YouTube e Kick. Cada canal tem seu próprio toggle: ative só os que valem a pena.
+Cadastre os canais que você acompanha. O Clipaisso verifica periodicamente quando cada um entra ao vivo e **inicia a gravação automaticamente**, dispensando a necessidade de intervenção do usuário no momento exato. Há suporte às plataformas Twitch, YouTube e Kick, com possibilidade de ativar ou desativar o monitoramento de cada canal individualmente.
 
 ### Uploads
 
-Tem um vídeo seu já gravado por aí? Importa pro Clipaisso e ele entra na biblioteca como qualquer outro item — pronto pra ser cortado, editado, segmentado ou unificado com outros clipes.
+Vídeos previamente gravados podem ser importados para o Clipaisso e passam a integrar a biblioteca como qualquer outro item — disponíveis para cortes, edição, segmentação ou unificação com demais clipes.
 
 ### Editor
 
-Um editor visual desenhado pra clipes verticais e horizontais. Você compõe usando:
+Um editor visual projetado para clipes verticais e horizontais. A composição é realizada a partir dos seguintes recursos:
 
 - **Keyframes** com regiões posicionáveis livremente na timeline
-- **Assets**: imagens, GIFs, textos com tipografia customizável e formas geométricas
-- **Áudio**: trilhas adicionais, faixa principal com volume variável por trecho, EQ por banda
-- **Overlays** salvos: monta sua biblioteca de elementos reutilizáveis (logos, marca d'água, etc.)
-- **Fontes personalizadas**: importa TTF / OTF / WOFF e usa direto nos textos
-- **Presets de keyframe**: salva uma composição e aplica em qualquer outro vídeo com um clique
+- **Assets**: imagens, GIFs, textos com tipografia personalizável e formas geométricas
+- **Áudio**: trilhas adicionais, faixa principal com volume variável por trecho e equalização por banda
+- **Overlays** salvos: biblioteca pessoal de elementos reutilizáveis (logotipos, marcas d'água, etc.)
+- **Fontes personalizadas**: importação de arquivos TTF, OTF e WOFF para uso direto nos textos
+- **Presets de keyframe**: salve composições e aplique-as a outros vídeos com um único clique
 
-Tudo pré-visualizável em tempo real antes de renderizar.
+Todas as alterações são pré-visualizáveis em tempo real antes da renderização final.
 
 ### Cortes
 
-Recorte trechos específicos de um vídeo e gere um arquivo enxuto com só o que importa. Suporta múltiplos trechos na mesma operação — vira um único clipe unificado já com todas as partes escolhidas.
+Selecione trechos específicos de um vídeo e gere um arquivo contendo apenas o conteúdo relevante. Múltiplos trechos podem ser definidos em uma mesma operação, resultando em um clipe unificado com todas as partes selecionadas.
 
 ### Segmentação
 
-Pega um vídeo longo e gera vários clipes a partir dele, cada um com um trecho diferente. Define o nome base (ex.: `HIGHLIGHT`) e o Clipaisso gera `HIGHLIGHT-1`, `HIGHLIGHT-2`, ... Ideal pra transformar uma live de 4 horas em dezenas de clipes individuais.
+Divida um vídeo extenso em múltiplos clipes independentes, cada um correspondente a um trecho distinto. Ao definir um nome base (ex.: `HIGHLIGHT`), o Clipaisso gera automaticamente arquivos enumerados (`HIGHLIGHT-1`, `HIGHLIGHT-2`, ...) — ideal para extrair dezenas de clipes individuais a partir de uma transmissão longa.
 
-### Unificar vídeos
+### Unificação de vídeos
 
-Junta múltiplos clipes em um só, na ordem que você definir, com a opção de marcar início e fim de cada trecho antes da junção. O Clipaisso valida automaticamente que todos têm a mesma resolução pra evitar surpresas no resultado.
+Combine múltiplos clipes em um único arquivo, na ordem desejada, com a possibilidade de delimitar início e fim de cada trecho antes da unificação. O Clipaisso valida automaticamente a compatibilidade de resolução entre os arquivos para garantir consistência no resultado.
 
 ### Configurações
 
-Tudo customizável:
+Ambiente totalmente personalizável:
 
-- **Conta**: gerenciar seu perfil, plano de assinatura e dispositivos conectados
-- **Aparência**: tema claro / escuro / sistema, idioma (Português / English)
-- **Sistema**: escolha do encoder (CPU / NVIDIA NVENC / AMD AMF), pasta onde os conteúdos são salvos, fechamento de modais com ESC
-- **Armazenamento**: visualização do espaço usado por categoria, limpeza com um clique
-- **Autenticação avançada**: cookies para downloads de conteúdo restrito, token Twitch para conteúdo de inscritos
+- **Conta**: gerenciamento de perfil, plano de assinatura e dispositivos conectados
+- **Aparência**: tema claro, escuro ou conforme o sistema; idioma Português ou Inglês
+- **Sistema**: seleção do encoder (CPU, NVIDIA NVENC ou AMD AMF), definição da pasta de conteúdo e configuração do fechamento de janelas modais via tecla ESC
+- **Armazenamento**: visualização do espaço utilizado por categoria, com opção de limpeza completa
+- **Autenticação avançada**: configuração de cookies para downloads de conteúdo restrito e token Twitch para acesso a material exclusivo de inscritos
 
 ### Atualizações automáticas
 
-Ao abrir o app, o Clipaisso verifica se há uma versão nova publicada. Se houver, aparece uma tela pedindo a atualização — um clique baixa, verifica a assinatura digital e reinicia já na nova versão. Sem instalar manual, sem perder a biblioteca, sem dor de cabeça.
+Na inicialização, o Clipaisso verifica a disponibilidade de novas versões. Quando uma atualização é detectada, o aplicativo exibe uma tela solicitando a instalação — um clique inicia o download, valida a assinatura digital e reinicia o programa na nova versão. Não há necessidade de instalação manual nem risco de perda da biblioteca.
 
 ---
 
-## Onde baixar
+## Onde obter
 
 A versão mais recente está disponível em **[app.clipaisso.com](https://app.clipaisso.com)**.
 
-Disponível para **Windows**. Versões para macOS e Linux entram no roadmap conforme a base de usuários crescer.
+Compatível com **Windows**. Versões para macOS e Linux estão previstas no roadmap, conforme a evolução da base de usuários.
 
 ---
 
 ## Suporte
 
-- **Dúvidas, sugestões e bugs**: entre na nossa comunidade no Discord, link disponível dentro do app em Configurações → Sobre.
+- **Dúvidas, sugestões e relatos de problemas**: acesse a comunidade no Discord. O link encontra-se disponível dentro do aplicativo, em Configurações → Sobre.
 - **Termos de uso** e **Política de privacidade** disponíveis em [app.clipaisso.com](https://app.clipaisso.com).
