@@ -73,19 +73,6 @@ Disponível para **Windows**. Versões para macOS e Linux entram no roadmap conf
 
 ---
 
-## Premium
-
-O Clipaisso é um app pago por assinatura. Você pode escolher entre:
-
-- **Mensal** — R$ 10,90 / mês
-- **Anual** — R$ 110 / ano (equivalente a 11 meses, com 1 grátis)
-
-Sem cobrança recorrente: cada pagamento é único (cartão ou PIX) e você renova manualmente quando quiser. Todos os recursos estão incluídos em qualquer um dos dois planos.
-
-Detalhes e checkout em **[app.clipaisso.com/subscription](https://app.clipaisso.com/subscription)**.
-
----
-
 ## Suporte
 
 - **Dúvidas, sugestões e bugs**: entre na nossa comunidade no Discord, link disponível dentro do app em Configurações → Sobre.
