@@ -1,12 +1,10 @@
-# Clipaisso
+### Clipaisso
 
 **Capture, edite e publique seus melhores momentos em um único ambiente.**
 
 O Clipaisso é um aplicativo de desktop voltado a criadores de conteúdo que desejam transformar transmissões ao vivo, vídeos e gravações em clipes prontos para publicação, sem a necessidade de alternar entre diferentes ferramentas. Realize downloads de transmissões, monitore canais, una clipes, execute cortes precisos e edite cada detalhe — em uma interface enxuta e objetiva.
 
 ---
-
-## Funcionalidades
 
 ### Downloads
 
@@ -65,7 +63,7 @@ Na inicialização, o Clipaisso verifica a disponibilidade de novas versões. Qu
 
 ---
 
-## Onde obter
+### Onde obter
 
 A versão mais recente está disponível em **[app.clipaisso.com](https://app.clipaisso.com)**.
 
@@ -73,7 +71,7 @@ Compatível com **Windows**. Versões para macOS e Linux estão previstas no roa
 
 ---
 
-## Suporte
+### Suporte
 
 - **Dúvidas, sugestões e relatos de problemas**: acesse a comunidade no Discord. O link encontra-se disponível dentro do aplicativo, em Configurações → Sobre.
 - **Termos de uso** e **Política de privacidade** disponíveis em [app.clipaisso.com](https://app.clipaisso.com).
